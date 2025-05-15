@@ -15,10 +15,3 @@ nav ul {
 
   padding-block: 8px; /* Define o padding geral de acordo com a quantidade de itens descritos. Por exemplo aqui está definindo somente cima e baixo, mas se adicionei mais um seria definido cima-baixo , esquerda-direita */
 }
-
-nav ul li:last-child img {
-  width: 40px;
-  height: 40px;
-  object-fit: cover;
-  border-radius: 50%;
-}
